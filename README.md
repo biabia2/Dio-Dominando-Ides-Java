@@ -2,8 +2,8 @@
 ###### Professora Camila 
 ###### Módulo II
 
-#####Comandos:
-######CTRL + ALT + T para abrir o terminal
+##### Comandos:
+###### CTRL + ALT + T para abrir o terminal
 
 
 ##### Ambiente de Desenvolvimento Ubuntu
