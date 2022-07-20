@@ -4,6 +4,12 @@
 
 ##### Comandos:
 ###### CTRL + ALT + T para abrir o terminal
+###### Tecla Windows + R para abrir o CMD
+###### Digitar Java --version e Git -- version para verificar a instalação dos mesmos
+###### Na barra de pesquisa digitar VAR, aba avançado, clica em variáveis de ambientes e depois em nova variável do sistema.
+###### No campo nome da variável escrever: JAVA_HOME
+###### Valor da variável colar o caminho da pasta que foi criada no diretório c - C:\Java\zulu11.58.17-ca-jdk11.0.16-win_i686
+###### Para configurar o Path, selecione e clique em editar, novo e cole novamente o caminho da pasta e adicione no final \bin - C:\Java\zulu11.58.17-ca-jdk11.0.16-win_i686\bin
 
 
 ##### Ambiente de Desenvolvimento Ubuntu
