@@ -38,7 +38,7 @@ WINDOWS
 🔺 Instalação JDK Zulu
 Aqui no windows, vamos fazer o download do OpenJDK Zulu. As compilações do Azul Zulu do OpenJDK são compilações de código aberto, testadas pelo TCK e certificadas do OpenJDK. O Zulu Blue está disponível para uma ampla variedade de plataformas de hardware e sistemas operacionais. A documentação do Azul Zulu inclui notas de lançamento, um guia de instalação e licenças de terceiros.
 
-🔹 1. Entre no SITE AZUL
+🔹 1. Entre no https://www.azul.com/downloads/?package=jdk
 
 🔹 2. Faça o download do arquivo .zip do JDK 11.0.11+9. No meu caso, o x86 64-bit
 
