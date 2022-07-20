@@ -2,9 +2,17 @@
 ###### Professora Camila 
 ###### Módulo II
 
+#####Comandos:
+######CTRL + ALT + T para abrir o terminal
+
+
 ##### Ambiente de Desenvolvimento Ubuntu
 ###### Instalação JDK e Git no Ubuntu
 ###### Instalação IntelliJ e Eclipse no Ubuntu
+
+#### Ambiente de Desenvolvimento Windows
+###### Instalação JDK e Git no Windows
+###### Instalação IntelliJ e Eclipse no Windows
 
  Windows
 ✅ Instalação OpenJDK
