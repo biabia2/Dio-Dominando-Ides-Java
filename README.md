@@ -143,5 +143,7 @@ git config --global user.email seuemail@email.br
 git config --list
 🔹10. Pronto, git instalado e configurado com sucesso!
 
+Disponibilizado com ♥ por cami-la.
+
 
 
