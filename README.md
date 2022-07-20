@@ -79,11 +79,12 @@ Créditos: DevSuperior
 
 
 🔺 Instalação Eclipse
-🔹 1. Acessar o site oficial do ECLIPSE
+🔹 1. Acessar o site oficial do ECLIPSE https://www.eclipse.org/downloads/
 
 🔹 2. Fazer o download do instalador
 
-🔹 3. Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers Link de download para Windows
+🔹 3. Escolha segunda a opção: Eclipse IDE for Enterprise Java and Web Developers Link de download para Windows  
+    [Link de download para Windows](https://www.eclipse.org/downloads/packages/)
 
 🔹 4. Clique no folder da primeira opção (Java 11 + VM) e selecione o JDK que instalamos na nossa máquina
 
@@ -99,7 +100,8 @@ Créditos: DevSuperior
 
 
 🔺 Instalação IntelliJ IDEA Community
-🔹 1. Entre no site ofical do INTELLIJ
+
+🔹 1. Entre no site ofical do INTELLIJ https://www.jetbrains.com/idea/download/#section=windows
 
 🔹 2. Escolha a opção Community e faça o download
 
