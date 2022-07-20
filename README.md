@@ -10,6 +10,7 @@
 ###### No campo nome da variável escrever: JAVA_HOME
 ###### Valor da variável colar o caminho da pasta que foi criada no diretório c - C:\Java\zulu11.58.17-ca-jdk11.0.16-win_i686
 ###### Para configurar o Path, selecione e clique em editar, novo e cole novamente o caminho da pasta e adicione no final \bin - C:\Java\zulu11.58.17-ca-jdk11.0.16-win_i686\bin
+###### Para compilar o arquivo de Java no CMD o comando é: javac e o nome do arquivo
 
 
 ##### Ambiente de Desenvolvimento Ubuntu
